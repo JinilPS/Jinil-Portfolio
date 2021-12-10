@@ -26,3 +26,11 @@ li a {
 li a:hover {
     background-color: #111;
 }
+@media screen and (max-width: 600px) {
+    ul.topnav li {
+        float: none;
+    }
+}
+* {
+    box-sizing: border-box;
+}
