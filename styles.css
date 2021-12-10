@@ -16,3 +16,13 @@
 .li {
     float: left;
 }
+.li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: bisque;
+    text-decoration: none;
+}
+.li a:hover {
+    background-color: #111;
+}
