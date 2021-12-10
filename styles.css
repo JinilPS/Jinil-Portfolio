@@ -6,16 +6,13 @@
     font-size: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.topnav {
-    
-}
 .ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: rgb(165, 74, 10);
 }
 .li {
-    background-color: rgb(165, 74, 10);
     float: left;
 }
