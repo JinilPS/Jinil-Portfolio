@@ -2,7 +2,12 @@
     text-align: center;
     background-color: bisque;
     margin: 0;
+    color: rgb(165, 74, 10);
+    font-size: 80px;
 }
 .topnav {
+    background-color: rgb(165, 74, 10);
+}
+.li {
     background-color: rgb(165, 74, 10);
 }
