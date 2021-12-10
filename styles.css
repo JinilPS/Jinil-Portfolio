@@ -7,7 +7,6 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 ul {
-    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -25,12 +24,4 @@ li a {
 }
 li a:hover {
     background-color: #111;
-}
-@media screen and (max-width: 600px) {
-    ul.topnav li {
-        float: none;
-    }
-}
-* {
-    box-sizing: border-box;
 }
