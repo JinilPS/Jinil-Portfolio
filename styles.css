@@ -6,6 +6,9 @@
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.header a {
+    font-size: 20px;
+}
 ul {
     list-style-type: none;
     margin: 0;
