@@ -1,6 +1,8 @@
 .header {
     text-align: center;
     background-color: bisque;
+    width: auto;
+    height: auto;
     margin: 0;
     color: rgb(165, 74, 10);
     font-size: 40px;
@@ -8,6 +10,7 @@
 }
 .header a {
     font-size: 20px;
+    color: blue;
 }
 ul {
     list-style-type: none;
