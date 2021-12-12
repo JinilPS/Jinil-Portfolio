@@ -8,12 +8,6 @@
     color: rgb(165, 74, 10);
     font-size: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-bottom: 0px;
-}
-.header a {
-    font-size: 14px;
-    color: blue;
-    padding: 0px;
 }
 ul {
     list-style-type: none;
