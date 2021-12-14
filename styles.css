@@ -29,3 +29,7 @@ li a {
 li a:hover {
     background-color: #111;
 }
+.footer {
+    background-color: rgb(165, 74, 10);
+    color: bisque;
+}
