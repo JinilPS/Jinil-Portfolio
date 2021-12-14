@@ -38,3 +38,8 @@ li a:hover {
     padding-top: 10px;
     padding-left: 16px;
 }
+@media screen and (max-width: 600px) { 
+    ul.topnav li {
+        float: none;
+    }
+}
