@@ -33,3 +33,8 @@ li a:hover {
     background-color: rgb(165, 74, 10);
     color: bisque;
 }
+.column {
+    width: 33.33%;
+    padding-top: 10px;
+    padding-left: 16px;
+}
