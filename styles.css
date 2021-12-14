@@ -3,6 +3,7 @@
 }
 .header {
     text-align: center;
+    background-color: bisque;
     padding: 8px;
     color: rgb(165, 74, 10);
     font-size: 80px;
